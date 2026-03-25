@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/sengideons" target="blank"><img src="https://img.shields.io/twitter/follow/sengideons?logo=twitter&style=for-the-badge" alt="sengideons" /></a> </p>
 
-- 🌱 I’m currently learning **NEXTJS**
+- 🌱 I’m currently learning **THREEJS**
 
-- 💬 Ask me about **Python, JavaScript, HTML and CSS**
+- 💬 Ask me about anything **also available for coaching incase you need one**
 
-- 📫 How to reach me **dennisdorny@gmail.com**
+- 📫 How to reach me **info@sengideons.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
